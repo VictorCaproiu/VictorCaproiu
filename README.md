@@ -2,7 +2,6 @@
   
   Currently looking to expand my portfolio with various projects.
   
-  C/C++
   
   
 
